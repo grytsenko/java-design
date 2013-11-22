@@ -1,3 +1,3 @@
 ## Заметки
 
-[Использование исключений](https://github.com/grytsenko/java-design/blob/master/exceptions.md)
+[Исключения в API](https://github.com/grytsenko/java-design/blob/master/exceptions-in-api.md)
